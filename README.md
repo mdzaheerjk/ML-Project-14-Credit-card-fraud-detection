@@ -3,6 +3,10 @@
 Welcome! This repository contains code, data, and resources for detecting credit card fraud using machine learning and data analysis.
 
 ---
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFm5kJiIYsPQ9mH9bXQhhAKZ1Y8Z7a60Nzg&s" width="800" height="600" alt="Image">
+</p>
+
 
 ## 🌟 Features
 
